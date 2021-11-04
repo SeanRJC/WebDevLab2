@@ -1,2 +1,2 @@
-# WebDevLab2
+# WebDevelopmentLab2
 Created with CodeSandbox
